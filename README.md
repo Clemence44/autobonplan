@@ -27,4 +27,11 @@ afin de pouvoir, lors de l'insertion du fichier .csv mettre les données au bon 
 
 Cette solution permettrait de gagner en place, facilité d'usage et optimisation.
 
+## Consignes
+
+- Donner la possibilité d'uploader un nouveau fichier de véhicules  DONE
+- Créer un système d'authentification avec 2 users (1 lecture/import et 1 lecture) DONE
+- Créer une base de données relationnelle DONE
+- Utiliser Php/Javascript  DONE
+- Gestion de projet via Git DONE
 
