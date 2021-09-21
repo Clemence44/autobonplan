@@ -24,7 +24,7 @@ if(!empty($_POST)){
         array_push($vehicules_arrives,$nb);
     }
 
-    var_dump($modele);
+    //var_dump($modele);
 
     if($vehicules_arrives == null){
         $errors = true;
