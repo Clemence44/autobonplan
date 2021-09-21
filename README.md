@@ -19,6 +19,9 @@ Dossier "inc" comprend :
 
 La bdd a été réalisée avec des tables de type : VARCHAR 
 
+L'ajout d'une fiche véhicule dans la bdd s'effectue depuis un fichier .csv envoyé depuis un 
+formulaire et traité afin que ses données puissent être insérées en BDD
+
 En effet, ayant peu de temps j'ai priviligé l'aspect fonctionnel de l'application.
 Je peux tout de même vous proposer une amélioration pour la suite (que je serai ravie de réaliser) :
 
