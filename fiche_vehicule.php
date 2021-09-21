@@ -49,7 +49,7 @@ if (empty($_SESSION["user"])){
         <div class="box">
             <form method="post" enctype="multipart/form-data" novalidate>
                 <div class="field">
-                    <label>No Voiture</label>
+                    <label>Fiche Véhicule</label>
                     <div class="control">
                     <input type="file" name="csv" id="file" accept=".csv">
                     </div>
