@@ -17,7 +17,7 @@ Dossier "inc" comprend :
 
 ## Important
 
-La bdd a été réalisée avec des tables de type : VARCHAR 
+La bdd comprend une table "arrivage " dont toutes les entités sont de type : VARCHAR et une table "utilisateur"
 
 L'ajout d'une fiche véhicule dans la bdd s'effectue depuis un fichier .csv envoyé depuis un 
 formulaire et traité afin que ses données puissent être insérées en BDD
