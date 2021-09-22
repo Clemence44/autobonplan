@@ -25,7 +25,7 @@ formulaire et traité afin que ses données puissent être insérées en BDD
 En effet, ayant peu de temps j'ai priviligé l'aspect fonctionnel de l'application.
 Je peux tout de même vous proposer une amélioration pour la suite (que je serai ravie de réaliser) :
 
-Créer un algorithme reconnaisant chaque type de donnée de la table : "arrivage"
+Créer un algorithme reconnaisant chaque type de donnée de la table : "arrivage" (table maj en focnction du format des données)
 afin de pouvoir, lors de l'insertion du fichier .csv mettre les données au bon format.
 
 Cette solution permettrait de gagner en place, facilité d'usage et optimisation.
